@@ -1,0 +1,89 @@
+{
+    "Battlemage": [
+        {
+            "name": "Cassiopeia",
+            "description": "Cassiopeia is a deadly creature bent on manipulating others to her sinister will. Youngest and most beautiful daughter of the noble Du Couteau family of Noxus, she ventured deep into the crypts beneath Shurima in search of ancient power. There, she was...",
+            "price": 6.95,
+            "Images": [
+                "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Cassiopeia_9.jpg",
+                "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Cassiopeia_4.jpg"
+            ]
+        },
+        {
+            "name": "Viktor",
+            "description": "The herald of a new age of technology, Viktor has devoted his life to the advancement of humankind. An idealist who seeks to lift the people of Zaun to a new level of understanding, he believes that only by embracing a glorious evolution of technology...",
+            "price": 4.95,
+            "Images": [
+                "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Viktor_4.jpg",
+                "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Viktor_3.jpg"
+            ]
+        },
+        {
+            "name": "Azir",
+            "description": "Azir was a mortal emperor of Shurima in a far distant age, a proud man who stood at the cusp of immortality. His hubris saw him betrayed and murdered at the moment of his greatest triumph, but now, millennia later, he has been reborn as an Ascended...",
+            "price": 9.95,
+            "Images": [
+                "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Azir_4.jpg",
+                "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Azir_3.jpg"
+            ]
+        }
+    ],
+    "Marksman": [
+        {
+            "name": "Draven",
+            "description": "In Noxus, warriors known as Reckoners face one another in arenas where blood is spilled and strength tested—but none has ever been as celebrated as Draven. A former soldier, he found that the crowds uniquely appreciated his flair for the dramatic, and...",
+            "price": 5.45,
+            "Images": [
+                "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Draven_2.jpg",
+                "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Draven_1.jpg"
+            ]
+        },
+        {
+            "name": "Kalista",
+            "description": "A specter of wrath and retribution, Kalista is the undying spirit of vengeance, an armored nightmare summoned from the Shadow Isles to hunt deceivers and traitors. The betrayed may cry out in blood to be avenged, but Kalista only answers those willing...",
+            "price": 6.95,
+            "Images": [
+                "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kalista_2.jpg",
+                "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Kalista_1.jpg"
+            ]
+        },
+        {
+            "name": "Xayah",
+            "description": "Deadly and precise, Xayah is a vastayan revolutionary waging a personal war to save her people. She uses her speed, guile, and razor-sharp feather blades to cut down anyone who stands in her way. Xayah fights alongside her partner and lover, Rakan, to...",
+            "price": 8.95,
+            "Images": [
+                "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Xayah_4.jpg",
+                "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Xayah_3.jpg"
+            ]
+        }
+    ],
+    "Vanguard": [
+        {
+            "name": "Sion",
+            "description": "A war hero from a bygone era, Sion was revered in Noxus for choking the life out of a Demacian king with his bare hands—but, denied oblivion, he was resurrected to serve his empire even in death. His indiscriminate slaughter claimed all who stood in his...",
+            "price": 4.45,
+            "Images": [
+                "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sion_4.jpg",
+                "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Sion_3.jpg"
+            ]
+        },
+        {
+            "name": "Ornn",
+            "description": "Ornn is the Freljordian spirit of forging and craftsmanship. He works in the solitude of a massive smithy, hammered out from the lava caverns beneath the volcano Hearth-Home. There he stokes bubbling cauldrons of molten rock to purify ores and fashion...",
+            "price": 8.95,
+            "Images": [
+                "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Ornn_1.jpg",
+                "https://cdn.vox-cdn.com/thumbor/10BUkE-Jd7_gLWstAxAy7MAZgNQ=/0x0:1200x630/1400x1400/filters:focal(501x64:693x256):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/56086995/download__1_.0.jpeg"
+            ]
+        },
+        {
+            "name": "Nunu & Willump",
+            "description": "Once upon a time, there was a boy who wanted to prove he was a hero by slaying a fearsome monster—only to discover that the beast, a lonely and magical yeti, merely needed a friend. Bound together by ancient power and a shared love of snowballs, Nunu...",
+            "price": 3.95,
+            "Images": [
+                "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nunu_1.jpg",
+                "https://ddragon.leagueoflegends.com/cdn/img/champion/loading/Nunu_2.jpg"
+            ]
+        }
+    ]
+}
